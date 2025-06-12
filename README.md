@@ -1,0 +1,1 @@
+It is a computer vision-based navigation system that combines real-time object detection, precise pose estimation, and robust inter-module communication. This project demonstrates advanced robotics concepts including camera calibration, coordinate transformations, and distributed system architecture using ROS(robotic operating system).
