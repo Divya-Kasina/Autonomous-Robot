@@ -4,6 +4,8 @@ It is a computer vision-based navigation system that combines real-time object d
 
 This project focuses on enabling autonomous navigation for a robot by combining deep learning-based object detection with camera-based pose estimation. The system allows the robot to understand its environment, estimate its own position and orientation, and make real-time navigation decisions using visual inputs from a camera.
 
+![image](https://github.com/user-attachments/assets/ee631160-a50a-4543-9765-a5420815b105)
+
 _1.Object Detection with YOLOv8_
 
 We use YOLOv8 (You Only Look Once), a state-of-the-art deep learning model for object detection.
